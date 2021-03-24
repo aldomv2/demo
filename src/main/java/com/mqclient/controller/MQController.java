@@ -13,5 +13,4 @@ public class MQController {
 		  
 	  return   "OK SERVICIO DEMO";
 	}
-
 }
